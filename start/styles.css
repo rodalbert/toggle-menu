@@ -64,9 +64,9 @@
   padding: 50px;
 }
 
-.open {
+.menu-drawer.open {
   right: 0px;
-  transition: right linear 0.2s;
+  transition: right linear 200ms;
 }
 
 .menu-drawer ul {
